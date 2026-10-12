@@ -1,5 +1,6 @@
 #LMS
 print("LMSS")
+print("LMSIIITDWD")
 from member import Member
 from library import  Library
 
